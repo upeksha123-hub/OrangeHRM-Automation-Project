@@ -15,4 +15,4 @@ Implemented logout automation by interacting with the user profile dropdown and 
 
 Managed browser setup and teardown using TestNG annotations to maintain a clean test environment.
 
-Used explicit waits and Thread.sleep where necessary to stabilize the tests.
+Used  Thread.sleep where necessary to stabilize the tests.
